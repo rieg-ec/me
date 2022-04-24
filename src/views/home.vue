@@ -4,7 +4,7 @@
       <a
         href="https://github.com/rieg-ec"
         target="_blank"
-        class="w-48 h-48 overflow-hidden rounded-full"
+        class="w-48 h-48 overflow-hidden transform rounded-full hover:scale-105"
       >
         <img
           src="https://avatars.githubusercontent.com/u/58893812?v=4"
@@ -114,6 +114,6 @@ a {
 }
 
 #social-media-row > a {
-  @apply w-8 h-8 cursor-pointer;
+  @apply w-8 h-8 cursor-pointer transform hover:scale-125;
 }
 </style>
