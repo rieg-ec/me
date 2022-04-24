@@ -42,6 +42,15 @@
             src="/public/images/icons/twitter.svg"
           >
         </a>
+        <a
+          href="https://codeforces.com/profile/rieg-ec"
+          target="_blank"
+        >
+          <img
+            class="w-full h-full"
+            src="/public/images/icons/codeforces.svg"
+          >
+        </a>
       </div>
     </div>
     <div class="flex flex-col space-y-8">
