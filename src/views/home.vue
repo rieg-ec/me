@@ -69,7 +69,7 @@
         </li>
         <li>
           <a
-            href="/public/rieg.keys"
+            href="/rieg.keys"
             target="_blank"
           >
             La llave pública de mi computador
