@@ -55,7 +55,7 @@
     </div>
     <div class="flex flex-col space-y-8">
       <h1 class="text-3xl font-semibold">
-        Hello!, my name is Ramón Echeverría.
+        Hello!
       </h1>
       <span class="text-2xl">Here are some links that might be useful:</span>
       <ul class="flex flex-col space-y-2 list-disc list-inside">
