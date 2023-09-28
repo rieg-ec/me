@@ -8,7 +8,7 @@
       >
         <img
           src="https://avatars.githubusercontent.com/u/58893812?v=4"
-          alt="Avatar de perfil de Github"
+          alt="Github profile avatar"
         >
       </a>
       <div
@@ -55,16 +55,16 @@
     </div>
     <div class="flex flex-col space-y-8">
       <h1 class="text-3xl font-semibold">
-        Hola!, me llamo Ramón Echeverría.
+        Hello!, my name is Ramón Echeverría.
       </h1>
-      <span class="text-2xl">Aquí te dejo algunos links que quizas sean útiles:</span>
+      <span class="text-2xl">Here are some links that might be useful:</span>
       <ul class="flex flex-col space-y-2 list-disc list-inside">
         <li>
           <a
             href="https://num.cl/rieg"
             target="_blank"
           >
-            Datos bancarios
+            Bank details
           </a>
         </li>
         <li>
@@ -72,20 +72,20 @@
             href="https://buda.com/registro?rf=C5OBY8PT5"
             target="_blank"
           >
-            Referral de buda
+            Buda referral
           </a>:
-          <span>el exchange de criptomonedas más grande de LATAM.</span>
+          <span>the largest cryptocurrency exchange in LATAM.</span>
         </li>
         <li>
           <a
             href="/rieg.keys"
             target="_blank"
           >
-            La llave pública de mi computador
+            My computer's public key
           </a>
         </li>
         <li>
-          Puedes escribirme a
+          You can send me an email at
           <a
             href="mailto:rieg.10199@gmail.com"
             target="_blank"
@@ -95,7 +95,7 @@
         </li>
         <li>
           <router-link to="/blog-suggestions">
-            Los mejores blogs que he leido
+            The best blogs I've read
           </router-link>
         </li>
       </ul>
