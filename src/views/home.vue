@@ -94,9 +94,8 @@
           </a>
         </li>
         <li>
-          Puedes ver mi horario
-          <router-link to="/schedule">
-            acá
+          <router-link to="/blog-suggestions">
+            Los mejores blogs que he leido
           </router-link>
         </li>
       </ul>
