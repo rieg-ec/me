@@ -13,12 +13,48 @@ const blogs = [
     url: 'https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html',
   },
   {
+    name: 'Text is All You Need',
+    url: 'https://studio.ribbonfarm.com/p/text-is-all-you-need',
+  },
+  {
     name: 'The Tail End',
     url: 'https://waitbutwhy.com/2015/12/the-tail-end.html',
   },
   {
     name: 'How to lose weight in 4 easy steps',
     url: 'https://medium.com/@AaronBleyaert/how-to-lose-weight-in-4-easy-steps-1f135f7e1dec',
+  },
+  {
+    name: 'Why Procrastinators Procrastinate',
+    url: 'https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html',
+  },
+  {
+    name: 'How to Beat Procrastination',
+    url: 'https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html',
+  },
+  {
+    name: 'Considerations on cost disease',
+    url: 'https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/',
+  },
+  {
+    name: 'Is this a good book for me, now?',
+    url: 'https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now',
+  },
+  {
+    name: "Don't be clever",
+    url: 'https://stitcher.io/blog/dont-be-clever',
+  },
+  {
+    name: "I'm OK; The Bull Is Dead",
+    url: 'https://www.computerworld.com/article/2565077/i-m-ok--the-bull-is-dead.html',
+  },
+  {
+    name: 'WTF Happened in 1971?',
+    url: 'https://wtfhappenedin1971.com/',
+  },
+  {
+    name: "There's no speed limit",
+    url: 'https://sive.rs/kimo',
   },
 ];
 
