@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "I posted my first blog, and why you should too",
+      "created_at": "2023-02-24T00:00:00.000Z",
+      "updated_at": "2023-02-24T00:00:00.000Z",
+      "id": 1
+    }
+  ]
+}
