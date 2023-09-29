@@ -64,7 +64,7 @@ const blogs = [
   <div class="max-w-2xl">
     <p>
       Below is a list of the best blogs i've read to date. Some of them are related to computers and technology,
-      but many of them are not. I hope you enjoy them as much as I did.
+      but many of them are not. I hope you enjoy them as much as I did :)
     </p>
     <ul class="flex flex-col gap-y-2 mt-12">
       <li
